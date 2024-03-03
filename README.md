@@ -2,6 +2,7 @@
 
 <!--
 **mayankpanchal21/Mayankpanchal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 <h1 align="center">Hi 👋, I'm Mayank Panchal</h1>
 <h3 align="center">I am Engineering Student in the domain of Computer Science. I like to convert my imagination🧠 into code <>. By this working attitude I am skilled in many programming languages.</h3>
 
