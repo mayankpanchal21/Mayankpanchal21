@@ -51,7 +51,7 @@ Here are the roles and responsibilities I've undertaken throughout my career:
 
 - 👨‍💻 Check my latest  [Portfolio](https://mayankpanchal21.vercel.app/)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/)
+- 📝 I regularly write articles on [Medium](https://medium.com/codebym)
 
 - 📫 How to reach me **mayankpanchal2002@gmail.com**
 
